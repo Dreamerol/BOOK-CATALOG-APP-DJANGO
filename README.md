@@ -1,5 +1,5 @@
-# <p align="center">
- 📚 DJANGO WEB APP - BOOK MANAGEMENT SYSTEM
+<p align="center">
+📚 <strong>DJANGO WEB APP - BOOK MANAGEMENT SYSTEM</strong>
 </p>
 
 ![BOOKS](https://github.com/Dreamerol/Dreamerol/blob/20e1d0e02512d29544a9b7b4f5e4b76b85b40680/BOOKS.jpg)
