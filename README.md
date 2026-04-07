@@ -38,7 +38,17 @@ This project tells the story of turning software knowledge into practical, real-
 
 
 <ul> <li>🗂️ **System Design:** Defined models for books and attributes</li> <li>🔧 **Backend Implementation:** Built views and routes for CRUD</li> <li>🎨 **Templates & Styling:** HTML, CSS, and JS for dynamic pages</li> <li>🗄️ **Database Management:** Integrated SQLite for robust storage</li> <li>⚙️ **Admin Panel Setup:** Professional management via Django admin</li> <li>🧪 **Testing & Validation:** Verified forms, database, and UI</li> <li>💼 **Portfolio Focus:** Structured README and badges for HR visibility</li> </ul>
-<h2>📊 RESULTS / ПОСТИГНАТИ РЕЗУЛТАТИ</h2> <ul> <li>✅ Fully functional **web-based book management system**</li> <li>✅ Implemented **CRUD operations efficiently**</li> <li>✅ Created **dynamic, responsive templates**</li> <li>✅ Integrated **database storage and admin management**</li> <li>✅ Portfolio-ready with **HR-friendly badges and icons**</li> </ul>
+
+---
+
+<p align="center"> <img src="https://img.shields.io/badge/Python-3-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Django-Framework-green?style=for-the-badge&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/SQLite-Database-red?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/CRUD-Operations-orange?style=for-the-badge" alt="CRUD"> <img src="https://img.shields.io/badge/Templates-HTML%2FCSS-purple?style=for-the-badge" alt="Templates"> <img src="https://img.shields.io/badge/Admin-Panel-teal?style=for-the-badge" alt="Admin Panel"> </p>
+
+---
+
+
+<h2>📊 RESULTS / ПОСТИГНАТИ РЕЗУЛТАТИ</h2> 
+
+<ul> <li>✅ Fully functional **web-based book management system**</li> <li>✅ Implemented **CRUD operations efficiently**</li> <li>✅ Created **dynamic, responsive templates**</li> <li>✅ Integrated **database storage and admin management**</li> <li>✅ Portfolio-ready with **HR-friendly badges and icons**</li> </ul>
 
 ---
 
@@ -61,7 +71,16 @@ This project tells the story of turning software knowledge into practical, real-
 <h2>💡 HOW IT WORKS</h2> 
 
 <ol> <li>🚀 Launch the **web application locally**</li> <li>📄 Navigate pages to **view, add, edit, or delete books**</li> <li>📝 Use **forms and templates** to interact with the database</li> <li>⚙️ Manage books via **admin panel**</li> <li>✅ Test functionality with sample data</li> </ol>
-<h2>💼 KEY SKILLS / УМЕНИЯ</h2> <ul> <li>🐍 **Python & Django Development**</li> <li>🗄️ **Database Integration (SQLite)**</li> <li>🎨 **Template Rendering & Static Files**</li> <li>🛠️ **CRUD Functionality Implementation**</li> <li>📱 **Responsive & Portfolio-Ready Design**</li> <li>🧩 **Problem-Solving & Clean Coding Practices**</li> <li>💼 **HR/Recruiter Friendly Presentation**</li> </ul>
+
+---
+
+<p align="center"> <img src="https://img.shields.io/badge/Python-3-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Django-Framework-green?style=for-the-badge&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/SQLite-Database-red?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/CRUD-Operations-orange?style=for-the-badge" alt="CRUD"> <img src="https://img.shields.io/badge/Templates-HTML%2FCSS-purple?style=for-the-badge" alt="Templates"> <img src="https://img.shields.io/badge/Admin-Panel-teal?style=for-the-badge" alt="Admin Panel"> </p>
+
+---
+
+<h2>💼 KEY SKILLS / УМЕНИЯ</h2> 
+
+<ul> <li>🐍 **Python & Django Development**</li> <li>🗄️ **Database Integration (SQLite)**</li> <li>🎨 **Template Rendering & Static Files**</li> <li>🛠️ **CRUD Functionality Implementation**</li> <li>📱 **Responsive & Portfolio-Ready Design**</li> <li>🧩 **Problem-Solving & Clean Coding Practices**</li> <li>💼 **HR/Recruiter Friendly Presentation**</li> </ul>
 
 ---
 
