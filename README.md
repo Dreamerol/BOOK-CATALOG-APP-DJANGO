@@ -5,8 +5,11 @@
 
 ---
 
-
 <div align="center"> <img src="https://github.com/Dreamerol/Dreamerol/blob/315852075478707306a5f65265e8b22f03963a1f/ZBOOKS.jpg" alt="BOOKS" width="600"/> </div>
+
+<div align="center">
+  <img src="https://github.com/Dreamerol/Dreamerol/blob/315852075478707306a5f65265e8b22f03963a1f/ZBOOKS.jpg" alt="BOOKS" width="100%" />
+</div>
 
 ---
 
