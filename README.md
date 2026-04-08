@@ -14,6 +14,17 @@
 
 <p align="center"> <img src="https://img.shields.io/badge/Python-3-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Django-Framework-green?style=for-the-badge&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/SQLite-Database-red?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/CRUD-Operations-orange?style=for-the-badge" alt="CRUD"> <img src="https://img.shields.io/badge/Templates-HTML%2FCSS-purple?style=for-the-badge" alt="Templates"> <img src="https://img.shields.io/badge/Admin-Panel-teal?style=for-the-badge" alt="Admin Panel"> </p>
 
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+</p>
+
+---
+
 <h2>📖 PROJECT STORY / ИСТОРИЯ НА ПРОЕКТА</h2>
 
 In today’s fast-paced digital world, efficient book management and interactive interfaces are crucial. Inspired by the idea of transforming traditional libraries into dynamic web applications, I built this Book Management System using Python and Django.
