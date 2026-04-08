@@ -17,14 +17,6 @@
 
 ---
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
-</p>
-
----
-
 <h2>📖 PROJECT STORY / ИСТОРИЯ НА ПРОЕКТА</h2>
 
 In today’s fast-paced digital world, efficient book management and interactive interfaces are crucial. Inspired by the idea of transforming traditional libraries into dynamic web applications, I built this Book Management System using Python and Django.
@@ -111,6 +103,15 @@ This project tells the story of turning software knowledge into practical, real-
 <p align="center">
 💡 This project demonstrates Python + Django full-stack skills, database handling, responsive web design, and is optimized for portfolio       
   & recruiter impact.
+</p>
+
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
 </p>
 
 
