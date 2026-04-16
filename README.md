@@ -15,6 +15,81 @@
 
 <h2 align="center">🖥️ TECH STACK / ТЕХНОЛОГИИ</h2>
 
+
+<p align="center">
+  <!-- CORE (blue) -->
+  <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-1D4ED8?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <!-- DATA / ML (orange accent) -->
+  <img src="https://img.shields.io/badge/Machine_Learning-EA580C?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-F97316?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-F59E0B?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-FBBF24?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-FACC15?style=for-the-badge&logo=plotly&logoColor=black" />
+  <img src="https://img.shields.io/badge/Statistics-FCD34D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FEBA74?style=for-the-badge&logo=tensorflow&logoColor=black" />
+
+  <!-- DJANGO STACK (balanced) -->
+  <img src="https://img.shields.io/badge/Django-1E40AF?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-3B82F6?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRUD-EA580C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Templates-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Admin_Panel-F59E0B?style=for-the-badge" />
+</p>
+
+---
+
+<h2>📖 PROJECT STORY / ИСТОРИЯ НА ПРОЕКТА</h2>
+
+In today’s fast-paced digital world, efficient book management and interactive interfaces are crucial. Inspired by the idea of transforming traditional libraries into dynamic web applications, I built this Book Management System using Python and Django.
+
+It showcases full-stack development, CRUD operations, dynamic templates, and database interaction. Users can view, add, edit, and delete books, while HR and recruiters can instantly see the applied skills through badges and portfolio-ready presentation.
+
+This project tells the story of turning software knowledge into practical, real-world applications, highlighting problem-solving, clean coding, and web development best practices.
+
+
+
+---
+
+<h2 align="center">🖥️ TECH STACK / ТЕХНОЛОГИИ</h2>
+
+<p align="center">
+  <!-- CORE (blue) -->
+  <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-1D4ED8?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <!-- DATA / ML (orange accent) -->
+  <img src="https://img.shields.io/badge/Machine_Learning-EA580C?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-F97316?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-F59E0B?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-FBBF24?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-FACC15?style=for-the-badge&logo=plotly&logoColor=black" />
+  <img src="https://img.shields.io/badge/Statistics-FCD34D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FEBA74?style=for-the-badge&logo=tensorflow&logoColor=black" />
+
+  <!-- DJANGO STACK (balanced) -->
+  <img src="https://img.shields.io/badge/Django-1E40AF?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-3B82F6?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRUD-EA580C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Templates-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Admin_Panel-F59E0B?style=for-the-badge" />
+</p>
+
+---
+
+<h2>🎯 OBJECTIVES / ПОСТАВЕНИ ЦЕЛИ</h2> 
+
+<ul> <li>💻 Build a **full-stack, functional book management system**</li> <li>🛠️ Apply **Python & Django best practices**</li> <li>📝 Implement **CRUD operations** effectively</li> <li>🎨 Design **dynamic templates and responsive UI**</li> <li>📊 Showcase **database integration, admin panel usage, and static file management**</li> <li>🏆 Present a **portfolio-ready, HR-friendly project**</li> </ul>
+
+---
+
+<h2 align="center">🖥️ TECH STACK / ТЕХНОЛОГИИ</h2>
+
 <p align="center">
   <!-- CORE (blue) -->
   <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white" />
@@ -42,74 +117,6 @@
 
 ---
 
-<h2>📖 PROJECT STORY / ИСТОРИЯ НА ПРОЕКТА</h2>
-
-In today’s fast-paced digital world, efficient book management and interactive interfaces are crucial. Inspired by the idea of transforming traditional libraries into dynamic web applications, I built this Book Management System using Python and Django.
-
-It showcases full-stack development, CRUD operations, dynamic templates, and database interaction. Users can view, add, edit, and delete books, while HR and recruiters can instantly see the applied skills through badges and portfolio-ready presentation.
-
-This project tells the story of turning software knowledge into practical, real-world applications, highlighting problem-solving, clean coding, and web development best practices.
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-1E293B?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-334155?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-475569?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-1D4ED8?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analysis-2563EB?style=for-the-badge&logo=apache&logoColor=white" />
-
-  <!-- NEW (след Data Analysis) -->
-  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-60A5FA?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Visualization-818CF8?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep_Learning-A78BFA?style=for-the-badge&logo=tensorflow&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Django-4F46E5?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-6366F1?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRUD-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Templates-A78BFA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Admin_Panel-C4B5FD?style=for-the-badge" />
-</p>
-
----
-
-<h2>🎯 OBJECTIVES / ПОСТАВЕНИ ЦЕЛИ</h2> 
-
-<ul> <li>💻 Build a **full-stack, functional book management system**</li> <li>🛠️ Apply **Python & Django best practices**</li> <li>📝 Implement **CRUD operations** effectively</li> <li>🎨 Design **dynamic templates and responsive UI**</li> <li>📊 Showcase **database integration, admin panel usage, and static file management**</li> <li>🏆 Present a **portfolio-ready, HR-friendly project**</li> </ul>
-
----
-
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-1E293B?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-334155?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-475569?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-1D4ED8?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analysis-2563EB?style=for-the-badge&logo=apache&logoColor=white" />
-
-  <!-- NEW (след Data Analysis) -->
-  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-60A5FA?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Visualization-818CF8?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep_Learning-A78BFA?style=for-the-badge&logo=tensorflow&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Django-4F46E5?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-6366F1?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRUD-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Templates-A78BFA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Admin_Panel-C4B5FD?style=for-the-badge" />
-</p>
-
-
-
----
-
 
 <h2>🛠️ METHODOLOGY / ПРОЦЕС</h2> 
 
@@ -120,28 +127,33 @@ This project tells the story of turning software knowledge into practical, real-
 ---
 
 
+---
+
+<h2 align="center">🖥️ TECH STACK / ТЕХНОЛОГИИ</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-1E293B?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-334155?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-475569?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-1D4ED8?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analysis-2563EB?style=for-the-badge&logo=apache&logoColor=white" />
+  <!-- CORE (blue) -->
+  <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-1D4ED8?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=white" />
 
-  <!-- NEW (след Data Analysis) -->
-  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-60A5FA?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Visualization-818CF8?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep_Learning-A78BFA?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <!-- DATA / ML (orange accent) -->
+  <img src="https://img.shields.io/badge/Machine_Learning-EA580C?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-F97316?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-F59E0B?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-FBBF24?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-FACC15?style=for-the-badge&logo=plotly&logoColor=black" />
+  <img src="https://img.shields.io/badge/Statistics-FCD34D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FEBA74?style=for-the-badge&logo=tensorflow&logoColor=black" />
 
-  <img src="https://img.shields.io/badge/Django-4F46E5?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-6366F1?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRUD-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Templates-A78BFA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Admin_Panel-C4B5FD?style=for-the-badge" />
+  <!-- DJANGO STACK (balanced) -->
+  <img src="https://img.shields.io/badge/Django-1E40AF?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-3B82F6?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRUD-EA580C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Templates-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Admin_Panel-F59E0B?style=for-the-badge" />
 </p>
-
 
 ---
 
@@ -150,30 +162,34 @@ This project tells the story of turning software knowledge into practical, real-
 
 <ul> <li>✅ Fully functional **web-based book management system**</li> <li>✅ Implemented **CRUD operations efficiently**</li> <li>✅ Created **dynamic, responsive templates**</li> <li>✅ Integrated **database storage and admin management**</li> <li>✅ Portfolio-ready with **HR-friendly badges and icons**</li> </ul>
 
+
 ---
 
+<h2 align="center">🖥️ TECH STACK / ТЕХНОЛОГИИ</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-1E293B?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-334155?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-475569?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-1D4ED8?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analysis-2563EB?style=for-the-badge&logo=apache&logoColor=white" />
+  <!-- CORE (blue) -->
+  <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-1D4ED8?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=white" />
 
-  <!-- NEW (след Data Analysis) -->
-  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-60A5FA?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Visualization-818CF8?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep_Learning-A78BFA?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <!-- DATA / ML (orange accent) -->
+  <img src="https://img.shields.io/badge/Machine_Learning-EA580C?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-F97316?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-F59E0B?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-FBBF24?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-FACC15?style=for-the-badge&logo=plotly&logoColor=black" />
+  <img src="https://img.shields.io/badge/Statistics-FCD34D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FEBA74?style=for-the-badge&logo=tensorflow&logoColor=black" />
 
-  <img src="https://img.shields.io/badge/Django-4F46E5?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-6366F1?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRUD-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Templates-A78BFA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Admin_Panel-C4B5FD?style=for-the-badge" />
+  <!-- DJANGO STACK (balanced) -->
+  <img src="https://img.shields.io/badge/Django-1E40AF?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-3B82F6?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRUD-EA580C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Templates-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Admin_Panel-F59E0B?style=for-the-badge" />
 </p>
-
 
 ---
 
@@ -181,32 +197,34 @@ This project tells the story of turning software knowledge into practical, real-
 
 <ul> <li>📖 **Book Listing:** Browse all books</li> <li>➕ **Add Book:** Add new entries via forms</li> <li>✏️ **Edit Book:** Update book information</li> <li>🗑️ **Delete Book:** Remove books</li> <li>🎨 **Dynamic Templates:** Auto-update pages based on database</li> <li>⚙️ **Admin Panel:** Manage books professionally</li> <li>🌐 **Responsive Design:** Works on desktop & mobile</li> </ul>
 
+
 ---
 
+<h2 align="center">🖥️ TECH STACK / ТЕХНОЛОГИИ</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-1E293B?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-334155?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-475569?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-1D4ED8?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analysis-2563EB?style=for-the-badge&logo=apache&logoColor=white" />
+  <!-- CORE (blue) -->
+  <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-1D4ED8?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=white" />
 
-  <!-- NEW (след Data Analysis) -->
-  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-60A5FA?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Visualization-818CF8?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep_Learning-A78BFA?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <!-- DATA / ML (orange accent) -->
+  <img src="https://img.shields.io/badge/Machine_Learning-EA580C?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-F97316?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-F59E0B?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-FBBF24?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-FACC15?style=for-the-badge&logo=plotly&logoColor=black" />
+  <img src="https://img.shields.io/badge/Statistics-FCD34D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FEBA74?style=for-the-badge&logo=tensorflow&logoColor=black" />
 
-  <img src="https://img.shields.io/badge/Django-4F46E5?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-6366F1?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRUD-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Templates-A78BFA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Admin_Panel-C4B5FD?style=for-the-badge" />
+  <!-- DJANGO STACK (balanced) -->
+  <img src="https://img.shields.io/badge/Django-1E40AF?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-3B82F6?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRUD-EA580C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Templates-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Admin_Panel-F59E0B?style=for-the-badge" />
 </p>
-
-
 
 ---
 
@@ -214,28 +232,34 @@ This project tells the story of turning software knowledge into practical, real-
 
 <ol> <li>🚀 Launch the **web application locally**</li> <li>📄 Navigate pages to **view, add, edit, or delete books**</li> <li>📝 Use **forms and templates** to interact with the database</li> <li>⚙️ Manage books via **admin panel**</li> <li>✅ Test functionality with sample data</li> </ol>
 
+
+
 ---
 
+<h2 align="center">🖥️ TECH STACK / ТЕХНОЛОГИИ</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-1E293B?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-334155?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-475569?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-1D4ED8?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analysis-2563EB?style=for-the-badge&logo=apache&logoColor=white" />
+  <!-- CORE (blue) -->
+  <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-1D4ED8?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=white" />
 
-  <!-- NEW (след Data Analysis) -->
-  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-60A5FA?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Visualization-818CF8?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep_Learning-A78BFA?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <!-- DATA / ML (orange accent) -->
+  <img src="https://img.shields.io/badge/Machine_Learning-EA580C?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-F97316?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-F59E0B?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-FBBF24?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-FACC15?style=for-the-badge&logo=plotly&logoColor=black" />
+  <img src="https://img.shields.io/badge/Statistics-FCD34D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FEBA74?style=for-the-badge&logo=tensorflow&logoColor=black" />
 
-  <img src="https://img.shields.io/badge/Django-4F46E5?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-6366F1?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRUD-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Templates-A78BFA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Admin_Panel-C4B5FD?style=for-the-badge" />
+  <!-- DJANGO STACK (balanced) -->
+  <img src="https://img.shields.io/badge/Django-1E40AF?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-3B82F6?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRUD-EA580C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Templates-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Admin_Panel-F59E0B?style=for-the-badge" />
 </p>
 
 
@@ -245,12 +269,6 @@ This project tells the story of turning software knowledge into practical, real-
 <h2>💼 KEY SKILLS / УМЕНИЯ</h2> 
 
 <ul> <li>🐍 **Python & Django Development**</li> <li>🗄️ **Database Integration (SQLite)**</li> <li>🎨 **Template Rendering & Static Files**</li> <li>🛠️ **CRUD Functionality Implementation**</li> <li>📱 **Responsive & Portfolio-Ready Design**</li> <li>🧩 **Problem-Solving & Clean Coding Practices**</li> <li>💼 **HR/Recruiter Friendly Presentation**</li> </ul>
-
-
-
----
-
-<h2 align="center">🖥️ TECH STACK / ТЕХНОЛОГИИ</h2>
 
 
 
