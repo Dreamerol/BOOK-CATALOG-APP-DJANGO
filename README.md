@@ -60,10 +60,10 @@ This project tells the story of turning software knowledge into practical, real-
   <img src="https://img.shields.io/badge/Data_Visualization-1A73E8?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Statistics-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model_Training-FF6D00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Pipelines-FBBF24?style=for-the-badge&logoColor=black" />
+
 
 </p>
+
 
 ---
 
@@ -88,8 +88,7 @@ This project tells the story of turning software knowledge into practical, real-
   <img src="https://img.shields.io/badge/Data_Visualization-1A73E8?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Statistics-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model_Training-FF6D00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Pipelines-FBBF24?style=for-the-badge&logoColor=black" />
+
 
 </p>
 
@@ -108,6 +107,7 @@ This project tells the story of turning software knowledge into practical, real-
 
 <h2 align="center">🖥️ TECH STACK / ТЕХНОЛОГИИ</h2>
 
+
 <p align="center">
 
   <img src="https://img.shields.io/badge/Python-4285F4?style=for-the-badge&logo=python&logoColor=white" />
@@ -122,10 +122,10 @@ This project tells the story of turning software knowledge into practical, real-
   <img src="https://img.shields.io/badge/Data_Visualization-1A73E8?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Statistics-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model_Training-FF6D00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Pipelines-FBBF24?style=for-the-badge&logoColor=black" />
+
 
 </p>
+
 
 ---
 
@@ -151,10 +151,10 @@ This project tells the story of turning software knowledge into practical, real-
   <img src="https://img.shields.io/badge/Data_Visualization-1A73E8?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Statistics-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model_Training-FF6D00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Pipelines-FBBF24?style=for-the-badge&logoColor=black" />
+
 
 </p>
+
 
 ---
 
@@ -179,8 +179,7 @@ This project tells the story of turning software knowledge into practical, real-
   <img src="https://img.shields.io/badge/Data_Visualization-1A73E8?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Statistics-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model_Training-FF6D00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Pipelines-FBBF24?style=for-the-badge&logoColor=black" />
+
 
 </p>
 
@@ -209,8 +208,7 @@ This project tells the story of turning software knowledge into practical, real-
   <img src="https://img.shields.io/badge/Data_Visualization-1A73E8?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Statistics-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model_Training-FF6D00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Pipelines-FBBF24?style=for-the-badge&logoColor=black" />
+
 
 </p>
 
@@ -240,8 +238,7 @@ This project tells the story of turning software knowledge into practical, real-
   <img src="https://img.shields.io/badge/Data_Visualization-1A73E8?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Statistics-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model_Training-FF6D00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Pipelines-FBBF24?style=for-the-badge&logoColor=black" />
+
 
 </p>
 
