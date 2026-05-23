@@ -14,20 +14,23 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-1D4ED8?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-EA580C?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analysis-F97316?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-F59E0B?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-FBBF24?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Visualization-FACC15?style=for-the-badge&logo=plotly&logoColor=black" />
-  <img src="https://img.shields.io/badge/Statistics-FCD34D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep_Learning-FEBA74?style=for-the-badge&logo=tensorflow&logoColor=black" />
-  <img src="https://img.shields.io/badge/Django-1E40AF?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-3B82F6?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRUD-EA580C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Core%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Relational%20Databases-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B%20Systems-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java%20Backend-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Functional%20Programming%20(Clojure)-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Systems-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics%20Pipeline-00BFFF?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithm%20Design-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Object--Oriented%20Design-32CD32?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Backend%20Engineering-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Development-FF8C00?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Git%20Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux%20Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Mathematical%20Modeling-1E90FF?style=for-the-badge"/>
 
 </p>
 
