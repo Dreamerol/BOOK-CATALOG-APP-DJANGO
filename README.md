@@ -26,8 +26,7 @@
   <img src="https://img.shields.io/badge/Data_Visualization-1A73E8?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Statistics-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model_Training-FF6D00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Pipelines-FBBF24?style=for-the-badge&logoColor=black" />
+
 
 </p>
 
