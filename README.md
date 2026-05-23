@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=white" />
 
-  <!-- DATA / ML (orange accent) -->
   <img src="https://img.shields.io/badge/Machine_Learning-EA580C?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Data_Analysis-F97316?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-F59E0B?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -28,12 +27,11 @@
   <img src="https://img.shields.io/badge/Statistics-FCD34D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deep_Learning-FEBA74?style=for-the-badge&logo=tensorflow&logoColor=black" />
 
-  <!-- DJANGO STACK (balanced) -->
+
   <img src="https://img.shields.io/badge/Django-1E40AF?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-3B82F6?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/CRUD-EA580C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Templates-F97316?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Admin_Panel-F59E0B?style=for-the-badge" />
+
 </p>
 
 ---
