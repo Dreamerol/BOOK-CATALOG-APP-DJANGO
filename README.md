@@ -14,34 +14,22 @@
 
 <p align="center">
 
-  <!-- CORE ML STACK -->
+  <img src="https://img.shields.io/badge/Python-4285F4?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-1F3A93?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-0F9D58?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/SQL-3367D6?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-202124?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-1A73E8?style=for-the-badge&logo=sqlite&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Machine_Learning-DB4437?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep_Learning-202124?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neural_Networks-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-F4B400?style=for-the-badge&logo=pandas&logoColor=black" />
 
-  <!-- FRAMEWORKS -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6D00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-DB4437?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-202124?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-4285F4?style=for-the-badge&logo=plotly&logoColor=white" />
 
-  <!-- DATA -->
-  <img src="https://img.shields.io/badge/Pandas-0F9D58?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-1A73E8?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Preprocessing-202124?style=for-the-badge" />
-
-  <!-- AI PIPELINE -->
-  <img src="https://img.shields.io/badge/Feature_Engineering-3367D6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model_Training-DB4437?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model_Evaluation-F4B400?style=for-the-badge" />
-
-  <!-- DEPLOYMENT -->
-  <img src="https://img.shields.io/badge/MLOps-202124?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Model_Deployment-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white" />
-
-  <!-- AI SPECIALIZATION -->
-  <img src="https://img.shields.io/badge/CNN-DB4437?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RNN-0F9D58?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Transformers-202124?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-DB4437?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-202124?style=for-the-badge" />
 
 </p>
 
