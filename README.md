@@ -19,15 +19,16 @@
   <img src="https://img.shields.io/badge/C%2B%2B-1E40AF?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine_Learning-1E3A8A?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-2563EB?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-1E3A8A?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRUD-1D4ED8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data_Analysis-1D4ED8?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-1E40AF?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-2563EB?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Data_Visualization-1E3A8A?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Statistics-1D4ED8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deep_Learning-1E40AF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-2563EB?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-1E3A8A?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRUD-1D4ED8?style=for-the-badge" />
+ 
 
 </p>
 
