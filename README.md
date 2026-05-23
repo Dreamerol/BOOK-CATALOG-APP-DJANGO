@@ -50,23 +50,22 @@ This project tells the story of turning software knowledge into practical, real-
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Python-F59E0B?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-F97316?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-F59E0B?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-FBBF24?style=for-the-badge&logo=mysql&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-4285F4?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-1A73E8?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-34A853?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Django-F97316?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-F59E0B?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRUD-FBBF24?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-3367D6?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-0F9D58?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-4285F4?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Machine_Learning-F97316?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analysis-F59E0B?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-FBBF24?style=for-the-badge&logo=pandas&logoColor=black" />
-  <img src="https://img.shields.io/badge/NumPy-F97316?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-DB4437?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Data_Visualization-FBBF24?style=for-the-badge&logo=plotly&logoColor=black" />
-  <img src="https://img.shields.io/badge/Statistics-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep_Learning-F97316?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-34A853?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-1A73E8?style=for-the-badge&logo=plotly&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/NumPy-5B21B6?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-6D28D9?style=for-the-badge" />
 
 </p>
 
