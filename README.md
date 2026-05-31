@@ -21,10 +21,10 @@
   <img src="https://img.shields.io/badge/SQLite-4285F4?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine_Learning-DB4437?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analysis-F4B400?style=for-the-badge&logo=pandas&logoColor=black" />
+
   <img src="https://img.shields.io/badge/Data_Visualization-1A73E8?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-F59E0B?style=for-the-badge" />
+
 
 
 </p>
