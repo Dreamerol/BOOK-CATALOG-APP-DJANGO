@@ -10,25 +10,22 @@
 </div>
 
 
-<br>
-
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Python-Advanced-F59E0B?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-Core%20CS-F97316?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-OOP-FB923C?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Databases-FACC15?style=for-the-badge&logo=mysql&logoColor=black" />
-  <img src="https://img.shields.io/badge/Django-Backend-FBBF24?style=for-the-badge&logo=django&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-Lightweight_DB-FDE047?style=for-the-badge&logo=sqlite&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-Advanced-F97316?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Core%20CS-F59E0B?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-OOP-FBBF24?style=for-the-badge&logo=openjdk&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-Databases-FDE047?style=for-the-badge&logo=mysql&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-Backend-FACC15?style=for-the-badge&logo=django&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-Lightweight_DB-FDE68A?style=for-the-badge&logo=sqlite&logoColor=black" />
   <img src="https://img.shields.io/badge/Machine_Learning-Models-F59E0B?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep_Learning-Neural_Nets-F97316?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Data_Analysis-Insights-FBBF24?style=for-the-badge&logo=pandas&logoColor=black" />
-  <img src="https://img.shields.io/badge/Data_Visualization-Charts-FACC15?style=for-the-badge&logo=plotly&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data_Visualization-Charts-FDE047?style=for-the-badge&logo=plotly&logoColor=black" />
   <img src="https://img.shields.io/badge/NumPy-Numerics-FDE68A?style=for-the-badge&logo=numpy&logoColor=black" />
-  <img src="https://img.shields.io/badge/Statistics-Probability-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statistics-Probability-FBBF24?style=for-the-badge" />
 
 </p>
-
 
 
 <p align="center">
