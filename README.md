@@ -13,6 +13,24 @@
 
 <p align="center">
 
+  <img src="https://img.shields.io/badge/Python-F97316?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-F59E0B?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-FBBF24?style=for-the-badge&logo=openjdk&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-FACC15?style=for-the-badge&logo=mysql&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-F97316?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-F59E0B?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FBBF24?style=for-the-badge&logo=tensorflow&logoColor=black" />
+  <img src="https://img.shields.io/badge/Deep_Learning-F97316?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-FACC15?style=for-the-badge&logo=plotly&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-F59E0B?style=for-the-badge&logo=numpy&logoColor=white" />
+
+</p>
+
+
+
+
+<p align="center">
+
   <img src="https://img.shields.io/badge/Python-4285F4?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-1A73E8?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-F59E0B?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -21,7 +39,6 @@
   <img src="https://img.shields.io/badge/SQLite-4285F4?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine_Learning-F59E0B?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Data_Visualization-1A73E8?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge&logo=numpy&logoColor=white" />
 
