@@ -15,9 +15,9 @@
 
   <img src="https://img.shields.io/badge/Python-4285F4?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-1A73E8?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-34A853?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-F59E0B?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-3367D6?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-0F9D58?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-F59E0B?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-4285F4?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine_Learning-F59E0B?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white" />
