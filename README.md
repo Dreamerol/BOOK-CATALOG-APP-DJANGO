@@ -218,31 +218,6 @@ This project tells the story of turning software knowledge into practical, real-
 ---
 
 
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Python-2B2D42?style=for-the-badge&logo=python&logoColor=F97316" />
-  <img src="https://img.shields.io/badge/C%2B%2B-1F2937?style=for-the-badge&logo=c%2B%2B&logoColor=F59E0B" />
-  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=FBBF24" />
-  <img src="https://img.shields.io/badge/SQL-1C1F2A?style=for-the-badge&logo=mysql&logoColor=F97316" />
-  <img src="https://img.shields.io/badge/Django-0F172A?style=for-the-badge&logo=django&logoColor=F59E0B" />
-  <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=FBBF24" />
-  <img src="https://img.shields.io/badge/Machine_Learning-1F2937?style=for-the-badge&logo=tensorflow&logoColor=F97316" />
-  <img src="https://img.shields.io/badge/Deep_Learning-111827?style=for-the-badge&logo=pytorch&logoColor=F59E0B" />
-  <img src="https://img.shields.io/badge/Data_Analysis-1C1F2A?style=for-the-badge&logo=pandas&logoColor=FBBF24" />
-  <img src="https://img.shields.io/badge/Data_Visualization-0F172A?style=for-the-badge&logo=plotly&logoColor=F97316" />
-  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=F59E0B" />
-  <img src="https://img.shields.io/badge/Statistics-1F2937?style=for-the-badge&logoColor=FBBF24" />
-
-</p>
-
-
-
-
-
-
----
-
-
 
 
 
