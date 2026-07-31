@@ -43,10 +43,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-
-
----
-
 <h2>📖 PROJECT STORY / ИСТОРИЯ НА ПРОЕКТА</h2>
 
 In today’s fast-paced digital world, efficient book management and interactive interfaces are crucial. Inspired by the idea of transforming traditional libraries into dynamic web applications, I built this Book Management System using Python and Django.
