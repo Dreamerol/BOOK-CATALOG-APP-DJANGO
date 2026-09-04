@@ -6,9 +6,10 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZBOOKS.jpg" alt="BOOKS" width="100%" />
+  <a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">
+    <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZBOOKS.jpg" alt="BOOKS" width="100%" />
+  </a>
 </div>
-
 
 
 
