@@ -175,7 +175,9 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<div align="left">
 
+<div align="left">
 
 
 
@@ -252,6 +254,23 @@ This project tells the story of turning software knowledge into practical, real-
 <h2>💼 KEY SKILLS / УМЕНИЯ</h2> 
 
 <ul> <li>🐍 **Python & Django Development**</li> <li>🗄️ **Database Integration (SQLite)**</li> <li>🎨 **Template Rendering & Static Files**</li> <li>🛠️ **CRUD Functionality Implementation**</li> <li>📱 **Responsive & Portfolio-Ready Design**</li> <li>🧩 **Problem-Solving & Clean Coding Practices**</li> <li>💼 **HR/Recruiter Friendly Presentation**</li> </ul>
+
+
+
+
+
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
 
 
 
